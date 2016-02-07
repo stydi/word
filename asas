@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>Smart Biz</title>
+   	<link rel="stylesheet" href="css/styles.css"></link>
+   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,600' rel='stylesheet' type='text/css'>
+   	<meta charset="utf-8">
+ </head>
+ <body>
+  <div class="wrapper-header">
+  	<header>
+  		<div class="logo">
+        <a href="#">Smart<span>biz</span></a>
+        <span class="slogan">Precise and impartial approach</span>
+  			<!-- <img src="image/smart.jpg" alt=""> -->
+  		</div>
+        
+  		<form id="search">
+  				<input type="text" name="search-text" placeholder="search">
+  				<input type="submit" name="search-submit" value="Submit">
+  		</form>
+  			<ul class="nav">
+  				<li><a href="#some_link">HOME</a></li>
+  				<li><a href="#some_link">About </a></li>
+  				<li><a href="#some_link">Services</a></li>
+  				<li><a href="#some_link">Blog</a></li>
+  				<li><a href="#some_link">Contacts</a></li>
+  			</ul>
+  	</header>
+  	</div>
+    <div class="wrapper-conteiner">
+  	<div class="conteiner">
+  		<div class="content">
+  			<div class="bloks">
+  				<div class="block">
+  					<h2>Blog</h2>
+  					<h3>Praesent vestilum molestie lacus aenean nonum</h3>
+  					<h4>Created on Friday, 03 August 2012 09:29</h4>
+  					<img src="image/clock.jpg" alt="clock">
+  					<p><strong>Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus.</strong></p>
+  					<p class="text">Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit.</p>
+  					<a href="#">more info</a>
+  					
+  				</div>
+  				<div class="block">
+  					<h3 class="sleep">Praesent vestilum molestie lacus aenean nonum</h3>
+  					<h4>Created on Friday, 03 August 2012 09:29</h4>
+  					<img src="image/head.jpg" alt="head">
+  					<p><strong>Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus.</strong></p>
+  					<p class="text">Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit.</p>
+  					<a href="#">more info</a>
+  				</div>
+  			</div>
+  			<div class="page">
+				<a href="#">prev page</a>
+				<a href="#">1</a>
+				<a href="#">2</a>
+				<a href="#">3</a>
+				<a href="#">4</a>
+				<a href="#">5</a>
+				<a href="#">6</a>
+				<a href="#">7</a>
+				<a href="#">next page</a>
+  				
+  			</div>
+  			</div>
+  			<div class="sidebar">
+  				<div class="Categories">
+  					<h2>Categories</h2>
+  					<ul> 
+  						<li><a href="#">Praesent vestibulum molestie </a></li>
+  						<li><a href="#">Aenean nonuy hendrerit</a></li>
+  						<li><a href="#">mauris Phallus porta fusce</a></li>
+  						<li><a href="#">suscipit varius miCum</a></li>
+  						<li><a href="#">sociis natoque penatibus gnis</a></li>
+  						<li><a href="#">dis parturient montes</a></li>
+  						<li><a href="#">nascetur ridiculus mus Nulla</a></li>
+  						<li><a href="#">Fusce feugiat malesuada</a></li>
+  						<li><a href="#">Morbi nunc gravida aursus ste </a></li>
+  					</ul>
+  				</div>
+  				<div class="Archives">
+  					<h2>Archives</h2>
+  					<ul>
+  						<li><a href="#">November 2011</a></li>
+  						<li><a href="#">October 2011</a></li>
+  						<li><a href="#">September 2011</a></li>
+  						<li><a href="#">August 2011</a></li>
+  						<li><a href="#">July 2011</a></li>
+  					</ul>
+  					
+  				</div>
+  				<div class="posts">
+  					<h2>recent posts</h2>
+  					<div class="post">
+	  					<p>Srella dui. Fusce feugiat male vsuada odio. Morbi nunc odio, gravida at, cursus nec. Srella dui. Fusce feugiat male vsuada.</p>
+	  					<p><strong>July 21, 2012</strong></p>
+  					</div>
+  					<div class="post">
+	  					<p>Srella dui. Fusce feugiat male vsuada odio. Morbi nunc odio, gravida at, cursus nec. Srella dui. Fusce feugiat male vsuada.</p>
+	  					<p><strong>July 21, 2012</strong></p>
+  					</div>
+  					<div class="post">
+	  					<p>Srella dui. Fusce feugiat male vsuada odio. Morbi nunc odio, gravida at, cursus nec. Srella dui. Fusce feugiat male vsuada.</p>
+	  					<p><strong>July 21, 2012</strong></p>
+  					</div>
+  				</div>
+  			</div>
+  			 		
+  	</div>
+    
+  	<footer>
+  		<p>Smart Biz© 2012  |  Privacy Policy</p>
+  	</footer>
+    </div>
+ </body>
